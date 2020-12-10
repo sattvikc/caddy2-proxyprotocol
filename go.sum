@@ -385,6 +385,8 @@ github.com/marten-seemann/qpack v0.1.0/go.mod h1:LFt1NU/Ptjip0C2CPkhimBz5CGE3WGD
 github.com/marten-seemann/qtls v0.9.1/go.mod h1:T1MmAdDPyISzxlK6kjRr0pcZFBVd1OZbBb/j3cvzHhk=
 github.com/mastercactapus/proxyprotocol v0.0.2 h1:xfpG3Hlqbchf2RT5VvfOwxwJN1s3Rk1SbKAiOXUUEFQ=
 github.com/mastercactapus/proxyprotocol v0.0.2/go.mod h1:U8uVElxMmDGtHvI5bGYUsFq5e61riGROOLxON6x+Ac0=
+github.com/mastercactapus/proxyprotocol v0.0.3 h1:WpDMFKCYdF8NsoA6OrXyNKyZrzMURqqOP1PE7297RCE=
+github.com/mastercactapus/proxyprotocol v0.0.3/go.mod h1:X8FRVEDZz9FkrIoL4QYTBF4Ka4ELwTv0sah0/5NxCPw=
 github.com/matoous/godox v0.0.0-20190911065817-5d6d842e92eb/go.mod h1:1BELzlh859Sh1c6+90blK8lbYy0kwQf1bYlBhBysy1s=
 github.com/mattn/go-colorable v0.0.9/go.mod h1:9vuHe8Xs5qXnSaW/c/ABM9alt+Vo+STaOChaDxuIBZU=
 github.com/mattn/go-colorable v0.1.4/go.mod h1:U0ppj6V5qS13XJ6of8GYAs25YV2eR4EVcfRqFIhoBtE=
